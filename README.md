@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+    <img alt="¡Hola!" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150"/>
+</div>
+<h1 align="center">Hola, soy Cristian David Lozano</h1>
 
-<!--
-**CristianDavid013/CristianDavid013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mí
 
-Here are some ideas to get you started:
+- 🎓 Estudiante en **ParqueSoft TI**, Colombia
+- 🌱 Enfocado en aprender: **Python, JavaScript y Java**
+- ✉️ Contacto: [kristian0930@hotmail.com](mailto:kristian0930@hotmail.com)
+- ⚡ **Intereses**: 🚴‍♂️ Bicicleta | 🌍 Idiomas | 💻 Computadoras | 🎵 Música | ✈️ Viajes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías
+
+<div align="center">
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>
+
+
+"El éxito es la suma de pequeños esfuerzos repetidos día tras día" - Robert Collier
